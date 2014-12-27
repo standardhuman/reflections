@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	diff not only finds the differences but groups the differences close to each other making them
+	much easier to see.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	It would be easier to see the beginning product and the evolution to a more refined state. Understanding the steps that were required in this process would hopefully allow me to skip many of them in the future.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+	A pro for making manual commits as in Git is that I can group changes logically into discrete commits. A con is that I may forget to make a commit for too long and wind up with too large of a change in one commit. 
+	A pro for automatic saving such as in Google Docs is that I never have to worry about saving the progress of a job. On the other hand, since Google Docs saves every change, grouping the changes logiclly is much more chalenging.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	I think that Git is intended to work with files that are related to ech other and edited in concert while Gdocs is typically used for indiviual files that are not interdependent. 
+
+How can you use the commands git log and git diff to view the history of files?
+	git log displays all the commits in that particular git. git diff allows me to compare two commits and see what lines were added between the two commits.
+
+How might using version control make you more confident to make changes that could break something?
+	I know that I will always have the ability to revert to a previous file type and fix the bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	version control?
+
